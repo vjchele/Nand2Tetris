@@ -1,0 +1,7 @@
+@R0
+D=M
+A=A+1
+M=23
+(END)
+@END
+0;JEQ
